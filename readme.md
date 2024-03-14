@@ -36,4 +36,5 @@ file="recovery.img"         main_type="PARTITION"      sub_type="recovery"
 
 2、在`recipes-core\images\skyworth-generic-mediaclient-image.bb`配方里，里面的`do_aml_pack`任务会使用相关的可执行程序`aml_image_v2_packer_new`根据配置生成`img镜像`，就能通过`AML Burn Tool V2工具`进行烧录了。
 
-![abc](https://note.youdao.com/yws/api/personal/file/WEBb2749bd5ab5ec2e2e7b61e47f9158389?method=download&shareKey=a4048e157b3ea9a84581ce1a7019d676)
+![abc](http://note.youdao.com/yws/api/personal/file/WEBb2749bd5ab5ec2e2e7b61e47f9158389?method=download&shareKey=a4048e157b3ea9a84581ce1a7019d676)
+![abc](http://note.youdao.com/yws/api/personal/file/WEBb2749bd5ab5ec2e2e7b61e47f9158389?method=download&shareKey=a4048e157b3ea9a84581ce1a7019d676)
